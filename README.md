@@ -6,8 +6,8 @@ Because of computational complexity several other methods have been proposed, fo
 By using the Fourier Transform of the Black-Scholes model it can be solved more efficiently, since it makes it possible to compute the prices for different strike prices at once. This is done by discretizing the problem and then use the FFT to solve the equation in the frequency domain. 
 
 ## The Fourier Transform
-First we consider the Fourier transform. Let $f(x)\in L^1(\mathbb{R})$ be a piecewise continous and real function for $x \in (-\infty, \infty)$, such that
-$$\int_{-\infty}^{\infty}$$
+First we consider the Fourier transform. Let $f(x)\in L^1(\mathbb{R})$ be a piecewise continous and real function, that is
+$$\int_{-\infty}^{\infty} |f(x)| dx < \infty.$$
 
 
 
