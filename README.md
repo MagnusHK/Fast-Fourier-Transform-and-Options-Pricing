@@ -10,6 +10,7 @@ First we consider the Fourier transform. Let $f(x)\in L^1(\mathbb{R})$ be a piec
 $$\int_{-\infty}^{\infty} |f(x)| dx < \infty$$
 
 
+## FFT Algorithm for Pricing European Options
 
 
 
