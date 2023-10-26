@@ -7,7 +7,7 @@ By using the Fourier Transform of the Black-Scholes model it can be solved more 
 
 ## The Fourier Transform
 First we consider the Fourier transform. Let $f(x)\in L^1(\mathbb{R})$ be a piecewise continous and real function, that is
-$$\int_{-\infty}^{\infty} |f(x)| dx < \infty.$$
+$$\int_{-\infty}^{\infty} |f(x)| dx < \infty$$
 
 
 
